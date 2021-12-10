@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ae296bd-f5ba-4088-b9fa-3d908c47a601" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/collection/set/CollectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/collection/set/MapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/collection/set/TreeSetPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/string_functions/StringPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/wrappers/IntegerPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,27 +69,28 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.CompletableFutureDemo">
+  <component name="RunManager" selected="Application.StringPractice">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="BagGenerics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.newjava.generics.BagGenerics" />
+    <configuration name="CollectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newjava.collection.set.CollectionSort" />
       <module name="Java_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.newjava.generics.*" />
+          <option name="PATTERN" value="com.newjava.collection.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,13 +98,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompletableFutureDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.newjava.java8.completableFuture.CompletableFutureDemo" />
+    <configuration name="IntegerPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newjava.wrappers.IntegerPractice" />
       <module name="Java_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.newjava.java8.completableFuture.*" />
+          <option name="PATTERN" value="com.newjava.wrappers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,13 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.newjava.generics.GenericsDemo" />
+    <configuration name="MapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newjava.collection.set.MapSort" />
       <module name="Java_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.newjava.generics.*" />
+          <option name="PATTERN" value="com.newjava.collection.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,13 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.newjava.java8.MethodReference" />
+    <configuration name="StringPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newjava.string_functions.StringPractice" />
       <module name="Java_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.newjava.java8.*" />
+          <option name="PATTERN" value="com.newjava.string_functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,13 +140,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OptionalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.newjava.java8.OptionalDemo" />
+    <configuration name="TreeSetPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newjava.collection.set.TreeSetPractice" />
       <module name="Java_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.newjava.java8.*" />
+          <option name="PATTERN" value="com.newjava.collection.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,19 +177,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MethodReference" />
-      <item itemvalue="Application.OptionalDemo" />
-      <item itemvalue="Application.GenericsDemo" />
-      <item itemvalue="Application.BagGenerics" />
-      <item itemvalue="Application.CompletableFutureDemo" />
+      <item itemvalue="Application.TreeSetPractice" />
+      <item itemvalue="Application.StringPractice" />
+      <item itemvalue="Application.IntegerPractice" />
+      <item itemvalue="Application.CollectionSort" />
+      <item itemvalue="Application.MapSort" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CompletableFutureDemo" />
-        <item itemvalue="Application.BagGenerics" />
-        <item itemvalue="Application.GenericsDemo" />
-        <item itemvalue="Application.OptionalDemo" />
-        <item itemvalue="Application.MethodReference" />
+        <item itemvalue="Application.MapSort" />
+        <item itemvalue="Application.CollectionSort" />
+        <item itemvalue="Application.IntegerPractice" />
+        <item itemvalue="Application.StringPractice" />
+        <item itemvalue="Application.TreeSetPractice" />
       </list>
     </recent_temporary>
   </component>
@@ -195,6 +205,28 @@
       <updated>1547482404610</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="129" key="GridCell.Tab.0.bottom" timestamp="1639146858877">
+      <screen x="0" y="25" width="1280" height="662" />
+    </state>
+    <state width="1238" height="129" key="GridCell.Tab.0.bottom/0.25.1280.662@0.25.1280.662" timestamp="1639146858877" />
+    <state width="1238" height="129" key="GridCell.Tab.0.center" timestamp="1639146858876">
+      <screen x="0" y="25" width="1280" height="662" />
+    </state>
+    <state width="1238" height="129" key="GridCell.Tab.0.center/0.25.1280.662@0.25.1280.662" timestamp="1639146858876" />
+    <state width="1238" height="129" key="GridCell.Tab.0.left" timestamp="1639146858875">
+      <screen x="0" y="25" width="1280" height="662" />
+    </state>
+    <state width="1238" height="129" key="GridCell.Tab.0.left/0.25.1280.662@0.25.1280.662" timestamp="1639146858875" />
+    <state width="1238" height="129" key="GridCell.Tab.0.right" timestamp="1639146858876">
+      <screen x="0" y="25" width="1280" height="662" />
+    </state>
+    <state width="1238" height="129" key="GridCell.Tab.0.right/0.25.1280.662@0.25.1280.662" timestamp="1639146858876" />
+    <state x="305" y="25" width="670" height="676" key="search.everywhere.popup" timestamp="1639137241935">
+      <screen x="0" y="25" width="1280" height="662" />
+    </state>
+    <state x="305" y="25" width="670" height="676" key="search.everywhere.popup/0.25.1280.662@0.25.1280.662" timestamp="1639137241935" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -221,6 +253,22 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/newjava/string_functions/StringPractice.java</url>
+          <line>9</line>
+          <properties class="com.newjava.string_functions.StringPractice" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/newjava/wrappers/IntegerPractice.java</url>
+          <line>13</line>
+          <properties class="com.newjava.wrappers.IntegerPractice" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
