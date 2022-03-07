@@ -22,6 +22,7 @@ public class ArrayListPractice {
 
         //adding by index
         integers.add(0, 4);
-        System.out.println(integers);
+
+        System.out.println(integers.subList(0, 1));
     }
 }
