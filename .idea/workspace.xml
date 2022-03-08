@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ae296bd-f5ba-4088-b9fa-3d908c47a601" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/newjava/stream/Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/newjava/stream/Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/algo/search/GroupOfAnagrams.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,23 +52,9 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Stream">
+  <component name="RunManager" selected="Application.GroupOfAnagrams">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-    </configuration>
-    <configuration name="ArrayListPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.newjava.collection.set.ArrayListPractice" />
-      <module name="Java_main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.newjava.collection.set.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.newjava.algo.search.BinarySearch" />
@@ -93,6 +77,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.newjava.razorpay.in_memory_db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupOfAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newjava.algo.search.GroupOfAnagrams" />
+      <module name="Java_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.newjava.algo.search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,19 +149,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayListPractice" />
       <item itemvalue="Application.BinarySearch" />
       <item itemvalue="Application.Driver" />
       <item itemvalue="Application.ThreeDots" />
       <item itemvalue="Application.Stream" />
+      <item itemvalue="Application.GroupOfAnagrams" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GroupOfAnagrams" />
         <item itemvalue="Application.Stream" />
         <item itemvalue="Application.ThreeDots" />
         <item itemvalue="Application.Driver" />
         <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.ArrayListPractice" />
       </list>
     </recent_temporary>
   </component>
@@ -181,47 +179,47 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1460" height="231" key="GridCell.Tab.0.bottom" timestamp="1646757947311">
+    <state width="1460" height="231" key="GridCell.Tab.0.bottom" timestamp="1646757993470">
       <screen x="1440" y="25" width="1920" height="1055" />
     </state>
     <state width="1238" height="170" key="GridCell.Tab.0.bottom/0.25.1280.662@0.25.1280.662" timestamp="1639152282479" />
     <state width="1575" height="258" key="GridCell.Tab.0.bottom/0.25.1440.768/1440.25.1920.1055@1440.25.1920.1055" timestamp="1645618703683" />
-    <state width="1460" height="231" key="GridCell.Tab.0.bottom/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1646757947311" />
+    <state width="1460" height="231" key="GridCell.Tab.0.bottom/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1646757993470" />
     <state width="1575" height="258" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.25.1920.948@1440.25.1920.948" timestamp="1645617964997" />
-    <state width="1460" height="231" key="GridCell.Tab.0.center" timestamp="1646757947304">
+    <state width="1460" height="231" key="GridCell.Tab.0.center" timestamp="1646757993468">
       <screen x="1440" y="25" width="1920" height="1055" />
     </state>
     <state width="1238" height="170" key="GridCell.Tab.0.center/0.25.1280.662@0.25.1280.662" timestamp="1639152282478" />
     <state width="1575" height="258" key="GridCell.Tab.0.center/0.25.1440.768/1440.25.1920.1055@1440.25.1920.1055" timestamp="1645618703682" />
-    <state width="1460" height="231" key="GridCell.Tab.0.center/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1646757947304" />
+    <state width="1460" height="231" key="GridCell.Tab.0.center/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1646757993468" />
     <state width="1575" height="258" key="GridCell.Tab.0.center/0.25.1440.875/1440.25.1920.948@1440.25.1920.948" timestamp="1645617964996" />
-    <state width="1460" height="231" key="GridCell.Tab.0.left" timestamp="1646757947301">
+    <state width="1460" height="231" key="GridCell.Tab.0.left" timestamp="1646757993467">
       <screen x="1440" y="25" width="1920" height="1055" />
     </state>
     <state width="1238" height="170" key="GridCell.Tab.0.left/0.25.1280.662@0.25.1280.662" timestamp="1639152282478" />
     <state width="1575" height="258" key="GridCell.Tab.0.left/0.25.1440.768/1440.25.1920.1055@1440.25.1920.1055" timestamp="1645618703681" />
-    <state width="1460" height="231" key="GridCell.Tab.0.left/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1646757947301" />
+    <state width="1460" height="231" key="GridCell.Tab.0.left/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1646757993467" />
     <state width="1575" height="258" key="GridCell.Tab.0.left/0.25.1440.875/1440.25.1920.948@1440.25.1920.948" timestamp="1645617964995" />
-    <state width="1460" height="231" key="GridCell.Tab.0.right" timestamp="1646757947304">
+    <state width="1460" height="231" key="GridCell.Tab.0.right" timestamp="1646757993469">
       <screen x="1440" y="25" width="1920" height="1055" />
     </state>
     <state width="1238" height="170" key="GridCell.Tab.0.right/0.25.1280.662@0.25.1280.662" timestamp="1639152282479" />
     <state width="1575" height="258" key="GridCell.Tab.0.right/0.25.1440.768/1440.25.1920.1055@1440.25.1920.1055" timestamp="1645618703682" />
-    <state width="1460" height="231" key="GridCell.Tab.0.right/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1646757947304" />
+    <state width="1460" height="231" key="GridCell.Tab.0.right/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1646757993469" />
     <state width="1575" height="258" key="GridCell.Tab.0.right/0.25.1440.875/1440.25.1920.948@1440.25.1920.948" timestamp="1645617964996" />
-    <state x="1876" y="162" key="Vcs.Push.Dialog.v2" timestamp="1646756767727">
-      <screen x="1440" y="25" width="1920" height="1055" />
+    <state x="640" y="162" key="Vcs.Push.Dialog.v2" timestamp="1646758029914">
+      <screen x="0" y="25" width="1440" height="778" />
     </state>
-    <state x="1876" y="162" key="Vcs.Push.Dialog.v2/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1646756767727" />
+    <state x="640" y="162" key="Vcs.Push.Dialog.v2/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1646758029914" />
     <state x="2113" y="259" width="602" height="490" key="find.popup" timestamp="1646036305826">
       <screen x="1440" y="25" width="1920" height="958" />
     </state>
     <state x="2113" y="259" width="602" height="490" key="find.popup/0.25.1440.875/1440.25.1920.958@1440.25.1920.958" timestamp="1646036305826" />
-    <state x="1899" y="25" width="1006" height="1055" key="search.everywhere.popup" timestamp="1646756729222">
+    <state x="1899" y="25" width="1006" height="1055" key="search.everywhere.popup" timestamp="1646758397504">
       <screen x="1440" y="25" width="1920" height="1055" />
     </state>
     <state x="305" y="25" width="670" height="676" key="search.everywhere.popup/0.25.1280.662@0.25.1280.662" timestamp="1639137241935" />
-    <state x="1899" y="25" width="1006" height="1055" key="search.everywhere.popup/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1646756729222" />
+    <state x="1899" y="25" width="1006" height="1055" key="search.everywhere.popup/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1646758397504" />
     <state x="344" y="25" width="754" height="796" key="search.everywhere.popup/0.25.1440.778@0.25.1440.778" timestamp="1646039291325" />
     <state x="1898" y="25" width="1005" height="979" key="search.everywhere.popup/0.25.1440.875/1440.25.1920.958@1440.25.1920.958" timestamp="1646036566762" />
   </component>
