@@ -37,12 +37,42 @@ public class Stream {
 
         /// find frequency of number with reduce
 
-        Map<Integer, Integer> frequency = new HashMap<>();
-        System.out.println(frequencyMap(list));
+        Map<Integer, Long> frequency = frequencyMap(list);
+        System.out.println();
+
+        /// converting map to list of Item pojo
+        List<Item> items = new ArrayList<>();
+        frequency.entrySet().forEach(element -> {
+            items.add(new Item(element.getKey(), element.getValue()));
+        });
+        Comparator comparator = Comparator.comparing(Item::getFrequency);
+        comparator = comparator.thenComparing(Comparator.comparing(Item::getValue));
+        items.sort(comparator);
+        System.out.println(integers.get(0));
     }
 
     public static <Integer> Map<Integer, Long>  frequencyMap(List<Integer> elements) {
         return elements.stream()
                 .collect( Collectors.groupingBy( Function.identity(), Collectors.counting() ));
+    }
+
+}
+
+class Item {
+
+    private int value;
+    private long frequency;
+
+    Item(int value, long frequency) {
+        this.value = value;
+        this.frequency = frequency;
+    }
+
+    public long getFrequency() {
+        return frequency;
+    }
+
+    public int getValue() {
+        return value;
     }
 }
