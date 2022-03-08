@@ -1,6 +1,7 @@
 package com.newjava.string_functions;
 
 import java.util.Arrays;
+import java.util.List;
 
 /**
  * @author Amandeep Singh on 12/10/21/12/2021
@@ -35,7 +36,11 @@ public class StringPractice {
     }
 
     public static String join (String[] strArr, String delimeter) {
-        return String.join(",", strArr);
+        return String.join(delimeter, strArr);
+    }
+
+    public static String join (List<String> list, String delimeter) {
+        return String.join(delimeter, list);
     }
 
     public static String substring(String str, int startIndex) {

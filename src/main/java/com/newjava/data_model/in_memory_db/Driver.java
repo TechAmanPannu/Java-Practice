@@ -1,4 +1,4 @@
-package com.newjava.razorpay.in_memory_db;
+package com.newjava.data_model.in_memory_db;
 
 /**
  * @author Amandeep Singh on 2/28/22/02/2022
