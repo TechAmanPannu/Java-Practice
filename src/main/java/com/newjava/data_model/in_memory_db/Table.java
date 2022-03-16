@@ -1,7 +1,6 @@
-package com.newjava.razorpay.in_memory_db;
+package com.newjava.data_model.in_memory_db;
 
 import lombok.Data;
-import lombok.NoArgsConstructor;
 
 import java.util.HashMap;
 import java.util.Map;
