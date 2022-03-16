@@ -1,26 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6ae296bd-f5ba-4088-b9fa-3d908c47a601" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/algo/search/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/razorpay/in_memory_db/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/razorpay/in_memory_db/DatabaseManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/razorpay/in_memory_db/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/razorpay/in_memory_db/FieldConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/razorpay/in_memory_db/Row.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/razorpay/in_memory_db/Schema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/razorpay/in_memory_db/Table.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/algo/BulbNComplexity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/algo/BulbNSqureComplexity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/algo/SumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/algo/codlity/FirstUniqueNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/algo/codlity/MaxBetweenBinaryGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/algo/codlity/SymmetricStringPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/companies/BackBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/newjava/collection/set/ArrayListPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/newjava/collection/set/ArrayListPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/newjava/algo/search/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/newjava/algo/BinarySearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,17 +80,17 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Driver">
+  <component name="RunManager" selected="Application.BulbNComplexity">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="ArrayListPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.newjava.collection.set.ArrayListPractice" />
+    <configuration name="BulbNComplexity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newjava.algo.BulbNComplexity" />
       <module name="Java_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.newjava.collection.set.*" />
+          <option name="PATTERN" value="com.newjava.algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,13 +98,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.newjava.algo.search.BinarySearch" />
+    <configuration name="BulbNSqureComplexity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newjava.algo.BulbNSqureComplexity" />
       <module name="Java_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.newjava.algo.search.*" />
+          <option name="PATTERN" value="com.newjava.algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,13 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.newjava.collection.set.CollectionSort" />
+    <configuration name="SampleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newjava.algo.SampleTest" />
       <module name="Java_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.newjava.collection.set.*" />
+          <option name="PATTERN" value="com.newjava.algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,13 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.newjava.razorpay.in_memory_db.Driver" />
+    <configuration name="SumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newjava.algo.SumArray" />
       <module name="Java_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.newjava.razorpay.in_memory_db.*" />
+          <option name="PATTERN" value="com.newjava.algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,13 +140,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.newjava.collection.set.MapSort" />
+    <configuration name="SymmetricStringPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newjava.algo.codlity.SymmetricStringPoint" />
       <module name="Java_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.newjava.collection.set.*" />
+          <option name="PATTERN" value="com.newjava.algo.codlity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,19 +177,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CollectionSort" />
-      <item itemvalue="Application.MapSort" />
-      <item itemvalue="Application.ArrayListPractice" />
-      <item itemvalue="Application.BinarySearch" />
-      <item itemvalue="Application.Driver" />
+      <item itemvalue="Application.SymmetricStringPoint" />
+      <item itemvalue="Application.SampleTest" />
+      <item itemvalue="Application.SumArray" />
+      <item itemvalue="Application.BulbNComplexity" />
+      <item itemvalue="Application.BulbNSqureComplexity" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Driver" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.ArrayListPractice" />
-        <item itemvalue="Application.MapSort" />
-        <item itemvalue="Application.CollectionSort" />
+        <item itemvalue="Application.BulbNSqureComplexity" />
+        <item itemvalue="Application.BulbNComplexity" />
+        <item itemvalue="Application.SumArray" />
+        <item itemvalue="Application.SampleTest" />
+        <item itemvalue="Application.SymmetricStringPoint" />
       </list>
     </recent_temporary>
   </component>
@@ -196,35 +206,63 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1865" height="307" key="GridCell.Tab.0.bottom" timestamp="1646124399507">
-      <screen x="1440" y="25" width="1920" height="1055" />
+    <state x="1899" y="120" key="#Driver" timestamp="1646670975414">
+      <screen x="1440" y="66" width="1600" height="875" />
+    </state>
+    <state x="1899" y="120" key="#Driver/0.25.1440.875/1440.66.1600.875@1440.66.1600.875" timestamp="1646670975414" />
+    <state x="1996" y="254" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1646920141270">
+      <screen x="1440" y="66" width="1600" height="875" />
+    </state>
+    <state x="1996" y="254" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.875/1440.66.1600.875@1440.66.1600.875" timestamp="1646920141270" />
+    <state width="1515" height="301" key="GridCell.Tab.0.bottom" timestamp="1646984080312">
+      <screen x="1440" y="66" width="1600" height="875" />
     </state>
     <state width="1238" height="170" key="GridCell.Tab.0.bottom/0.25.1280.662@0.25.1280.662" timestamp="1639152282479" />
+    <state width="1238" height="301" key="GridCell.Tab.0.bottom/0.25.1280.775@0.25.1280.775" timestamp="1646977182287" />
     <state width="1575" height="258" key="GridCell.Tab.0.bottom/0.25.1440.768/1440.25.1920.1055@1440.25.1920.1055" timestamp="1645618703683" />
     <state width="1865" height="307" key="GridCell.Tab.0.bottom/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1646124399507" />
     <state width="1575" height="258" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.25.1920.948@1440.25.1920.948" timestamp="1645617964997" />
-    <state width="1865" height="307" key="GridCell.Tab.0.center" timestamp="1646124399506">
-      <screen x="1440" y="25" width="1920" height="1055" />
+    <state width="1515" height="301" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.66.1600.875@1440.66.1600.875" timestamp="1646984080312" />
+    <state width="1515" height="301" key="GridCell.Tab.0.center" timestamp="1646984080311">
+      <screen x="1440" y="66" width="1600" height="875" />
     </state>
     <state width="1238" height="170" key="GridCell.Tab.0.center/0.25.1280.662@0.25.1280.662" timestamp="1639152282478" />
+    <state width="1238" height="301" key="GridCell.Tab.0.center/0.25.1280.775@0.25.1280.775" timestamp="1646977182286" />
     <state width="1575" height="258" key="GridCell.Tab.0.center/0.25.1440.768/1440.25.1920.1055@1440.25.1920.1055" timestamp="1645618703682" />
     <state width="1865" height="307" key="GridCell.Tab.0.center/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1646124399506" />
     <state width="1575" height="258" key="GridCell.Tab.0.center/0.25.1440.875/1440.25.1920.948@1440.25.1920.948" timestamp="1645617964996" />
-    <state width="1865" height="307" key="GridCell.Tab.0.left" timestamp="1646124399506">
-      <screen x="1440" y="25" width="1920" height="1055" />
+    <state width="1515" height="301" key="GridCell.Tab.0.center/0.25.1440.875/1440.66.1600.875@1440.66.1600.875" timestamp="1646984080311" />
+    <state width="1515" height="301" key="GridCell.Tab.0.left" timestamp="1646984080311">
+      <screen x="1440" y="66" width="1600" height="875" />
     </state>
     <state width="1238" height="170" key="GridCell.Tab.0.left/0.25.1280.662@0.25.1280.662" timestamp="1639152282478" />
+    <state width="1238" height="301" key="GridCell.Tab.0.left/0.25.1280.775@0.25.1280.775" timestamp="1646977182286" />
     <state width="1575" height="258" key="GridCell.Tab.0.left/0.25.1440.768/1440.25.1920.1055@1440.25.1920.1055" timestamp="1645618703681" />
     <state width="1865" height="307" key="GridCell.Tab.0.left/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1646124399506" />
     <state width="1575" height="258" key="GridCell.Tab.0.left/0.25.1440.875/1440.25.1920.948@1440.25.1920.948" timestamp="1645617964995" />
-    <state width="1865" height="307" key="GridCell.Tab.0.right" timestamp="1646124399507">
-      <screen x="1440" y="25" width="1920" height="1055" />
+    <state width="1515" height="301" key="GridCell.Tab.0.left/0.25.1440.875/1440.66.1600.875@1440.66.1600.875" timestamp="1646984080311" />
+    <state width="1515" height="301" key="GridCell.Tab.0.right" timestamp="1646984080312">
+      <screen x="1440" y="66" width="1600" height="875" />
     </state>
     <state width="1238" height="170" key="GridCell.Tab.0.right/0.25.1280.662@0.25.1280.662" timestamp="1639152282479" />
+    <state width="1238" height="301" key="GridCell.Tab.0.right/0.25.1280.775@0.25.1280.775" timestamp="1646977182287" />
     <state width="1575" height="258" key="GridCell.Tab.0.right/0.25.1440.768/1440.25.1920.1055@1440.25.1920.1055" timestamp="1645618703682" />
     <state width="1865" height="307" key="GridCell.Tab.0.right/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1646124399507" />
     <state width="1575" height="258" key="GridCell.Tab.0.right/0.25.1440.875/1440.25.1920.948@1440.25.1920.948" timestamp="1645617964996" />
+    <state width="1515" height="301" key="GridCell.Tab.0.right/0.25.1440.875/1440.66.1600.875@1440.66.1600.875" timestamp="1646984080312" />
     <state x="2113" y="259" width="602" height="490" key="find.popup" timestamp="1646036305826">
       <screen x="1440" y="25" width="1920" height="958" />
     </state>
@@ -277,6 +315,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/newjava/algo/BulbNSqureComplexity.java</url>
+          <line>7</line>
+          <properties class="com.newjava.algo.BulbNSqureComplexity" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

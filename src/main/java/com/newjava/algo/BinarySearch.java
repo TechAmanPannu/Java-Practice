@@ -1,4 +1,4 @@
-package com.newjava.algo.search;
+package com.newjava.algo;
 
 import java.util.ArrayList;
 import java.util.Comparator;
