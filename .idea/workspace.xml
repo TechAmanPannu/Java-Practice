@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ae296bd-f5ba-4088-b9fa-3d908c47a601" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/algo/search/GroupOfAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/Priceline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/algo/MergeTwoSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/algo/Sum3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/generics/list/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/generics/list/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/inheritance/simple/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/inheritance/simple/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/inheritance/simple/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/newjava/algo/search/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/newjava/algo/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/newjava/algo/search/GroupOfAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/newjava/algo/GroupOfAnagrams.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +63,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.GroupOfAnagrams">
+  <component name="RunManager" selected="Application.BinarySearch">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -71,12 +82,12 @@
       </method>
     </configuration>
     <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.newjava.razorpay.in_memory_db.Driver" />
+      <option name="MAIN_CLASS_NAME" value="com.newjava.inheritance.simple.Driver" />
       <module name="Java_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.newjava.razorpay.in_memory_db.*" />
+          <option name="PATTERN" value="com.newjava.inheritance.simple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,8 +95,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroupOfAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.newjava.algo.search.GroupOfAnagrams" />
+    <configuration name="LearnLambadaImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newjava.LearnLambadaImpl" />
+      <module name="Java_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.newjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeTwoSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newjava.algo.search.MergeTwoSortedArrays" />
       <module name="Java_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -98,22 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.newjava.stream.Stream" />
-      <module name="Java_main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.newjava.stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreeDots" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.newjava.ThreeDots" />
+    <configuration name="Priceline" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newjava.Priceline" />
       <module name="Java_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -149,19 +160,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BinarySearch" />
+      <item itemvalue="Application.LearnLambadaImpl" />
+      <item itemvalue="Application.Priceline" />
       <item itemvalue="Application.Driver" />
-      <item itemvalue="Application.ThreeDots" />
-      <item itemvalue="Application.Stream" />
-      <item itemvalue="Application.GroupOfAnagrams" />
+      <item itemvalue="Application.MergeTwoSortedArrays" />
+      <item itemvalue="Application.BinarySearch" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GroupOfAnagrams" />
-        <item itemvalue="Application.Stream" />
-        <item itemvalue="Application.ThreeDots" />
-        <item itemvalue="Application.Driver" />
         <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.MergeTwoSortedArrays" />
+        <item itemvalue="Application.Driver" />
+        <item itemvalue="Application.Priceline" />
+        <item itemvalue="Application.LearnLambadaImpl" />
       </list>
     </recent_temporary>
   </component>
@@ -179,42 +190,46 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1460" height="231" key="GridCell.Tab.0.bottom" timestamp="1646757993470">
+    <state width="1398" height="220" key="GridCell.Tab.0.bottom" timestamp="1647349917022">
       <screen x="1440" y="25" width="1920" height="1055" />
     </state>
     <state width="1238" height="170" key="GridCell.Tab.0.bottom/0.25.1280.662@0.25.1280.662" timestamp="1639152282479" />
     <state width="1575" height="258" key="GridCell.Tab.0.bottom/0.25.1440.768/1440.25.1920.1055@1440.25.1920.1055" timestamp="1645618703683" />
-    <state width="1460" height="231" key="GridCell.Tab.0.bottom/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1646757993470" />
+    <state width="1398" height="220" key="GridCell.Tab.0.bottom/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1647349917022" />
     <state width="1575" height="258" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.25.1920.948@1440.25.1920.948" timestamp="1645617964997" />
-    <state width="1460" height="231" key="GridCell.Tab.0.center" timestamp="1646757993468">
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.25.1920.958@1440.25.1920.958" timestamp="1647272343752" />
+    <state width="1398" height="220" key="GridCell.Tab.0.center" timestamp="1647349917021">
       <screen x="1440" y="25" width="1920" height="1055" />
     </state>
     <state width="1238" height="170" key="GridCell.Tab.0.center/0.25.1280.662@0.25.1280.662" timestamp="1639152282478" />
     <state width="1575" height="258" key="GridCell.Tab.0.center/0.25.1440.768/1440.25.1920.1055@1440.25.1920.1055" timestamp="1645618703682" />
-    <state width="1460" height="231" key="GridCell.Tab.0.center/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1646757993468" />
+    <state width="1398" height="220" key="GridCell.Tab.0.center/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1647349917021" />
     <state width="1575" height="258" key="GridCell.Tab.0.center/0.25.1440.875/1440.25.1920.948@1440.25.1920.948" timestamp="1645617964996" />
-    <state width="1460" height="231" key="GridCell.Tab.0.left" timestamp="1646757993467">
+    <state width="1398" height="230" key="GridCell.Tab.0.center/0.25.1440.875/1440.25.1920.958@1440.25.1920.958" timestamp="1647272343751" />
+    <state width="1398" height="220" key="GridCell.Tab.0.left" timestamp="1647349917020">
       <screen x="1440" y="25" width="1920" height="1055" />
     </state>
     <state width="1238" height="170" key="GridCell.Tab.0.left/0.25.1280.662@0.25.1280.662" timestamp="1639152282478" />
     <state width="1575" height="258" key="GridCell.Tab.0.left/0.25.1440.768/1440.25.1920.1055@1440.25.1920.1055" timestamp="1645618703681" />
-    <state width="1460" height="231" key="GridCell.Tab.0.left/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1646757993467" />
+    <state width="1398" height="220" key="GridCell.Tab.0.left/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1647349917020" />
     <state width="1575" height="258" key="GridCell.Tab.0.left/0.25.1440.875/1440.25.1920.948@1440.25.1920.948" timestamp="1645617964995" />
-    <state width="1460" height="231" key="GridCell.Tab.0.right" timestamp="1646757993469">
+    <state width="1398" height="230" key="GridCell.Tab.0.left/0.25.1440.875/1440.25.1920.958@1440.25.1920.958" timestamp="1647272343751" />
+    <state width="1398" height="220" key="GridCell.Tab.0.right" timestamp="1647349917021">
       <screen x="1440" y="25" width="1920" height="1055" />
     </state>
     <state width="1238" height="170" key="GridCell.Tab.0.right/0.25.1280.662@0.25.1280.662" timestamp="1639152282479" />
     <state width="1575" height="258" key="GridCell.Tab.0.right/0.25.1440.768/1440.25.1920.1055@1440.25.1920.1055" timestamp="1645618703682" />
-    <state width="1460" height="231" key="GridCell.Tab.0.right/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1646757993469" />
+    <state width="1398" height="220" key="GridCell.Tab.0.right/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1647349917021" />
     <state width="1575" height="258" key="GridCell.Tab.0.right/0.25.1440.875/1440.25.1920.948@1440.25.1920.948" timestamp="1645617964996" />
-    <state x="640" y="162" key="Vcs.Push.Dialog.v2" timestamp="1646758029914">
+    <state width="1398" height="230" key="GridCell.Tab.0.right/0.25.1440.875/1440.25.1920.958@1440.25.1920.958" timestamp="1647272343752" />
+    <state x="640" y="162" key="Vcs.Push.Dialog.v2" timestamp="1646758774856">
       <screen x="0" y="25" width="1440" height="778" />
     </state>
-    <state x="640" y="162" key="Vcs.Push.Dialog.v2/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1646758029914" />
-    <state x="2113" y="259" width="602" height="490" key="find.popup" timestamp="1646036305826">
+    <state x="640" y="162" key="Vcs.Push.Dialog.v2/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1646758774856" />
+    <state x="2114" y="258" width="602" height="548" key="find.popup" timestamp="1647271782580">
       <screen x="1440" y="25" width="1920" height="958" />
     </state>
-    <state x="2113" y="259" width="602" height="490" key="find.popup/0.25.1440.875/1440.25.1920.958@1440.25.1920.958" timestamp="1646036305826" />
+    <state x="2114" y="258" width="602" height="548" key="find.popup/0.25.1440.875/1440.25.1920.958@1440.25.1920.958" timestamp="1647271782580" />
     <state x="1899" y="25" width="1006" height="1055" key="search.everywhere.popup" timestamp="1646758397504">
       <screen x="1440" y="25" width="1920" height="1055" />
     </state>

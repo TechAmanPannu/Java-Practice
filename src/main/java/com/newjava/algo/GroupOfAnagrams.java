@@ -1,4 +1,4 @@
-package com.newjava.algo.search;
+package com.newjava.algo;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -14,5 +14,6 @@ public class GroupOfAnagrams {
 
         List<String> list = Arrays.asList("cat", "rat", "tar", "atr", "tap", "pat");
         System.out.println(list.stream().map(element -> String.join("", Arrays.asList(element.split("")).stream().sorted().collect(Collectors.toList()))).collect(Collectors.toSet()).size());
+        System.out.println(list);
     }
 }

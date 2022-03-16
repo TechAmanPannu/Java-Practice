@@ -1,4 +1,4 @@
-package com.newjava.algo.search;
+package com.newjava.algo;
 
 import java.util.ArrayList;
 import java.util.Comparator;
@@ -18,7 +18,7 @@ public class BinarySearch {
         numbers.add(2);
         numbers.add(1);
 
-        numbers.sort(Comparator.comparing(Integer::intValue));
+        numbers.sort(Integer::compareTo);
         System.out.println(numbers);
         System.out.println(binarySearch(numbers, 0, numbers.size() - 1, 19));
     }
