@@ -18,27 +18,29 @@ public class Sum3 {
 
     public static List<Integer> findSum(List<Integer> numbers, int num) {
 
-        if(numbers.size() < 3) {
+        if (numbers.size() < 3) {
             return new ArrayList<>();
         }
 
         int sum = 0;
         List<Integer> results = new ArrayList<>();
-        for (int i = 0 ; i < 3; i++) {
+        for (int i = 0; i < 3; i++) {
             sum = sum + numbers.get(i);
             results.add(numbers.get(i));
         }
 
-        if(sum == num) {
+        if (sum == num) {
             return results;
         }
         results = new ArrayList<>();
 
-        for (int i = 1 ; i < numbers.size() ; i ++) {
-            sum = sum + numbers.get(i) - numbers.get( i - 1);
-            if(sum == num) {
+        for (int i = 1; i < numbers.size(); i++) {
+            sum = sum + numbers.get(i) - numbers.get(i - 1);
+            if (sum == num) {
 
             }
         }
+        return new ArrayList<>();
     }
+
 }
