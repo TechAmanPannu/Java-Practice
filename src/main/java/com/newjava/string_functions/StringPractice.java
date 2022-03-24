@@ -6,9 +6,12 @@ import java.util.List;
 /**
  * @author Amandeep Singh on 12/10/21/12/2021
  */
+
+// https://javapapers.com/java/java-string-vs-stringbuilder-vs-stringbuffer-concatenation-performance-micro-benchmark/
 public class StringPractice {
 
     public static void main (String arg[]) {
+
 
 
         String str = "Hello world";
