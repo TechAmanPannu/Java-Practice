@@ -36,7 +36,21 @@ public class GarbageCollector {
     *          But still there is no guarantee GC will start
     *          Both effectively equal calls
 
-    *  4. Finalization : Before deleting GC class finalize() method. which is available in Object class
+    *  4. Finalization :
+    *       a. Before deleting object GC call finalize() method. which is available in Object class
+    *       b. It is never invoke more than once for any object
+    *
+    *   5. Garbage Collection Pause :
+    *           1. Overall process time to cleanup memory when jvm invokes gc.
+    *           2. Consumer can face process delay if gc pause takes more time.
+    *
+    *   6. Tips to Reduce Garbage Collection Pause :
+    *       a. Reduce Object creation rate
+    *       b. Choice of GC algorithm : If not good in GC, use GC1 algo, it has auto-tuning capabilities, we can even set GC pause time goal using -XX:MaxGCPauseMillis=200
+    *       c. Not keeping large heap size, which internally reduces number of object creation and when gc invokes it takes less time to cleanup and hence pause would be less.
+    *   7. GC Algorithms
+    *           1. GC1
+    *
     * */
 
 }
