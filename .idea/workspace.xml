@@ -1,10 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6ae296bd-f5ba-4088-b9fa-3d908c47a601" name="Default" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/immutable/MyClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/newjava/algo/Sum3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/newjava/algo/Sum3.java" afterDir="false" />
+=======
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/algo/BulbNComplexity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/algo/BulbNSqureComplexity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/algo/SumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/algo/codlity/FirstUniqueNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/algo/codlity/MaxBetweenBinaryGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/algo/codlity/SymmetricStringPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/companies/BackBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/newjava/algo/search/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/newjava/algo/BinarySearch.java" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/Priceline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/algo/MergeTwoSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/algo/Sum3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/generics/list/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/generics/list/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/inheritance/simple/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/inheritance/simple/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newjava/inheritance/simple/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/newjava/algo/search/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/newjava/algo/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/newjava/algo/search/GroupOfAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/newjava/algo/GroupOfAnagrams.java" afterDir="false" />
+>>>>>>> 2c9c7c02de278b4397dde4b12341c1b92ac2370a
+>>>>>>> 5af3026c445d8a1101de458a1c0729ec85a6c706
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,17 +101,30 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+<<<<<<< HEAD
+  <component name="RunManager" selected="Application.BulbNComplexity">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="BulbNComplexity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newjava.algo.BulbNComplexity" />
+=======
   <component name="RunManager" selected="Application.BinarySearch">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.newjava.algo.search.BinarySearch" />
+>>>>>>> 2c9c7c02de278b4397dde4b12341c1b92ac2370a
       <module name="Java_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
+<<<<<<< HEAD
+          <option name="PATTERN" value="com.newjava.algo.*" />
+=======
           <option name="PATTERN" value="com.newjava.algo.search.*" />
+>>>>>>> 2c9c7c02de278b4397dde4b12341c1b92ac2370a
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,13 +132,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+    <configuration name="BulbNSqureComplexity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newjava.algo.BulbNSqureComplexity" />
+=======
     <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.newjava.inheritance.simple.Driver" />
+>>>>>>> 2c9c7c02de278b4397dde4b12341c1b92ac2370a
       <module name="Java_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
+<<<<<<< HEAD
+          <option name="PATTERN" value="com.newjava.algo.*" />
+=======
           <option name="PATTERN" value="com.newjava.inheritance.simple.*" />
+>>>>>>> 2c9c7c02de278b4397dde4b12341c1b92ac2370a
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,13 +155,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+    <configuration name="SampleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newjava.algo.SampleTest" />
+=======
     <configuration name="LearnLambadaImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.newjava.LearnLambadaImpl" />
+>>>>>>> 2c9c7c02de278b4397dde4b12341c1b92ac2370a
       <module name="Java_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
+<<<<<<< HEAD
+          <option name="PATTERN" value="com.newjava.algo.*" />
+=======
           <option name="PATTERN" value="com.newjava.*" />
+>>>>>>> 2c9c7c02de278b4397dde4b12341c1b92ac2370a
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,13 +178,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+    <configuration name="SumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newjava.algo.SumArray" />
+=======
     <configuration name="MergeTwoSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.newjava.algo.search.MergeTwoSortedArrays" />
+>>>>>>> 2c9c7c02de278b4397dde4b12341c1b92ac2370a
       <module name="Java_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
+<<<<<<< HEAD
+          <option name="PATTERN" value="com.newjava.algo.*" />
+=======
           <option name="PATTERN" value="com.newjava.algo.search.*" />
+>>>>>>> 2c9c7c02de278b4397dde4b12341c1b92ac2370a
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,13 +201,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+    <configuration name="SymmetricStringPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newjava.algo.codlity.SymmetricStringPoint" />
+=======
     <configuration name="Priceline" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.newjava.Priceline" />
+>>>>>>> 2c9c7c02de278b4397dde4b12341c1b92ac2370a
       <module name="Java_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
+<<<<<<< HEAD
+          <option name="PATTERN" value="com.newjava.algo.codlity.*" />
+=======
           <option name="PATTERN" value="com.newjava.*" />
+>>>>>>> 2c9c7c02de278b4397dde4b12341c1b92ac2370a
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,6 +247,21 @@
       </method>
     </configuration>
     <list>
+<<<<<<< HEAD
+      <item itemvalue="Application.SymmetricStringPoint" />
+      <item itemvalue="Application.SampleTest" />
+      <item itemvalue="Application.SumArray" />
+      <item itemvalue="Application.BulbNComplexity" />
+      <item itemvalue="Application.BulbNSqureComplexity" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BulbNSqureComplexity" />
+        <item itemvalue="Application.BulbNComplexity" />
+        <item itemvalue="Application.SumArray" />
+        <item itemvalue="Application.SampleTest" />
+        <item itemvalue="Application.SymmetricStringPoint" />
+=======
       <item itemvalue="Application.LearnLambadaImpl" />
       <item itemvalue="Application.Priceline" />
       <item itemvalue="Application.Driver" />
@@ -164,6 +275,7 @@
         <item itemvalue="Application.Driver" />
         <item itemvalue="Application.Priceline" />
         <item itemvalue="Application.LearnLambadaImpl" />
+>>>>>>> 2c9c7c02de278b4397dde4b12341c1b92ac2370a
       </list>
     </recent_temporary>
   </component>
@@ -180,44 +292,100 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
     <state width="1794" height="196" key="GridCell.Tab.0.bottom" timestamp="1647404759208">
+=======
+<<<<<<< HEAD
+    <state x="1899" y="120" key="#Driver" timestamp="1646670975414">
+      <screen x="1440" y="66" width="1600" height="875" />
+    </state>
+    <state x="1899" y="120" key="#Driver/0.25.1440.875/1440.66.1600.875@1440.66.1600.875" timestamp="1646670975414" />
+    <state x="1996" y="254" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1646920141270">
+      <screen x="1440" y="66" width="1600" height="875" />
+    </state>
+    <state x="1996" y="254" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.875/1440.66.1600.875@1440.66.1600.875" timestamp="1646920141270" />
+    <state width="1515" height="301" key="GridCell.Tab.0.bottom" timestamp="1646984080312">
+      <screen x="1440" y="66" width="1600" height="875" />
+=======
+    <state width="1398" height="220" key="GridCell.Tab.0.bottom" timestamp="1647349917022">
+>>>>>>> 5af3026c445d8a1101de458a1c0729ec85a6c706
       <screen x="1440" y="25" width="1920" height="1055" />
+>>>>>>> 2c9c7c02de278b4397dde4b12341c1b92ac2370a
     </state>
     <state width="1238" height="170" key="GridCell.Tab.0.bottom/0.25.1280.662@0.25.1280.662" timestamp="1639152282479" />
+    <state width="1238" height="301" key="GridCell.Tab.0.bottom/0.25.1280.775@0.25.1280.775" timestamp="1646977182287" />
     <state width="1575" height="258" key="GridCell.Tab.0.bottom/0.25.1440.768/1440.25.1920.1055@1440.25.1920.1055" timestamp="1645618703683" />
     <state width="1794" height="196" key="GridCell.Tab.0.bottom/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1647404759208" />
     <state width="1575" height="258" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.25.1920.948@1440.25.1920.948" timestamp="1645617964997" />
+<<<<<<< HEAD
+    <state width="1515" height="301" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.66.1600.875@1440.66.1600.875" timestamp="1646984080312" />
+    <state width="1515" height="301" key="GridCell.Tab.0.center" timestamp="1646984080311">
+      <screen x="1440" y="66" width="1600" height="875" />
+=======
     <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.25.1920.958@1440.25.1920.958" timestamp="1647272343752" />
     <state width="1794" height="196" key="GridCell.Tab.0.center" timestamp="1647404759208">
       <screen x="1440" y="25" width="1920" height="1055" />
+>>>>>>> 2c9c7c02de278b4397dde4b12341c1b92ac2370a
     </state>
     <state width="1238" height="170" key="GridCell.Tab.0.center/0.25.1280.662@0.25.1280.662" timestamp="1639152282478" />
+    <state width="1238" height="301" key="GridCell.Tab.0.center/0.25.1280.775@0.25.1280.775" timestamp="1646977182286" />
     <state width="1575" height="258" key="GridCell.Tab.0.center/0.25.1440.768/1440.25.1920.1055@1440.25.1920.1055" timestamp="1645618703682" />
     <state width="1794" height="196" key="GridCell.Tab.0.center/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1647404759208" />
     <state width="1575" height="258" key="GridCell.Tab.0.center/0.25.1440.875/1440.25.1920.948@1440.25.1920.948" timestamp="1645617964996" />
+<<<<<<< HEAD
+    <state width="1515" height="301" key="GridCell.Tab.0.center/0.25.1440.875/1440.66.1600.875@1440.66.1600.875" timestamp="1646984080311" />
+    <state width="1515" height="301" key="GridCell.Tab.0.left" timestamp="1646984080311">
+      <screen x="1440" y="66" width="1600" height="875" />
+=======
     <state width="1398" height="230" key="GridCell.Tab.0.center/0.25.1440.875/1440.25.1920.958@1440.25.1920.958" timestamp="1647272343751" />
     <state width="1794" height="196" key="GridCell.Tab.0.left" timestamp="1647404759207">
       <screen x="1440" y="25" width="1920" height="1055" />
+>>>>>>> 2c9c7c02de278b4397dde4b12341c1b92ac2370a
     </state>
     <state width="1238" height="170" key="GridCell.Tab.0.left/0.25.1280.662@0.25.1280.662" timestamp="1639152282478" />
+    <state width="1238" height="301" key="GridCell.Tab.0.left/0.25.1280.775@0.25.1280.775" timestamp="1646977182286" />
     <state width="1575" height="258" key="GridCell.Tab.0.left/0.25.1440.768/1440.25.1920.1055@1440.25.1920.1055" timestamp="1645618703681" />
     <state width="1794" height="196" key="GridCell.Tab.0.left/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1647404759207" />
     <state width="1575" height="258" key="GridCell.Tab.0.left/0.25.1440.875/1440.25.1920.948@1440.25.1920.948" timestamp="1645617964995" />
+<<<<<<< HEAD
+    <state width="1515" height="301" key="GridCell.Tab.0.left/0.25.1440.875/1440.66.1600.875@1440.66.1600.875" timestamp="1646984080311" />
+    <state width="1515" height="301" key="GridCell.Tab.0.right" timestamp="1646984080312">
+      <screen x="1440" y="66" width="1600" height="875" />
+=======
     <state width="1398" height="230" key="GridCell.Tab.0.left/0.25.1440.875/1440.25.1920.958@1440.25.1920.958" timestamp="1647272343751" />
     <state width="1794" height="196" key="GridCell.Tab.0.right" timestamp="1647404759208">
       <screen x="1440" y="25" width="1920" height="1055" />
+>>>>>>> 2c9c7c02de278b4397dde4b12341c1b92ac2370a
     </state>
     <state width="1238" height="170" key="GridCell.Tab.0.right/0.25.1280.662@0.25.1280.662" timestamp="1639152282479" />
+    <state width="1238" height="301" key="GridCell.Tab.0.right/0.25.1280.775@0.25.1280.775" timestamp="1646977182287" />
     <state width="1575" height="258" key="GridCell.Tab.0.right/0.25.1440.768/1440.25.1920.1055@1440.25.1920.1055" timestamp="1645618703682" />
     <state width="1794" height="196" key="GridCell.Tab.0.right/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1647404759208" />
     <state width="1575" height="258" key="GridCell.Tab.0.right/0.25.1440.875/1440.25.1920.948@1440.25.1920.948" timestamp="1645617964996" />
+<<<<<<< HEAD
+    <state width="1515" height="301" key="GridCell.Tab.0.right/0.25.1440.875/1440.66.1600.875@1440.66.1600.875" timestamp="1646984080312" />
+    <state x="2113" y="259" width="602" height="490" key="find.popup" timestamp="1646036305826">
+=======
     <state width="1398" height="230" key="GridCell.Tab.0.right/0.25.1440.875/1440.25.1920.958@1440.25.1920.958" timestamp="1647272343752" />
     <state x="1898" y="188" key="Vcs.Push.Dialog.v2" timestamp="1647404741123">
       <screen x="1440" y="25" width="1920" height="1055" />
     </state>
     <state x="1898" y="188" key="Vcs.Push.Dialog.v2/0.25.1440.778/1440.25.1920.1055@1440.25.1920.1055" timestamp="1647404741123" />
     <state x="2114" y="258" width="602" height="548" key="find.popup" timestamp="1647271782580">
+>>>>>>> 2c9c7c02de278b4397dde4b12341c1b92ac2370a
       <screen x="1440" y="25" width="1920" height="958" />
     </state>
     <state x="2114" y="258" width="602" height="548" key="find.popup/0.25.1440.875/1440.25.1920.958@1440.25.1920.958" timestamp="1647271782580" />
@@ -272,9 +440,15 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
+<<<<<<< HEAD
+          <url>file://$PROJECT_DIR$/src/main/java/com/newjava/algo/BulbNSqureComplexity.java</url>
+          <line>7</line>
+          <properties class="com.newjava.algo.BulbNSqureComplexity" method="main">
+=======
           <url>file://$PROJECT_DIR$/src/main/java/com/newjava/ThreeDots.java</url>
           <line>22</line>
           <properties class="com.newjava.ThreeDots" method="main">
+>>>>>>> 2c9c7c02de278b4397dde4b12341c1b92ac2370a
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="5" />
